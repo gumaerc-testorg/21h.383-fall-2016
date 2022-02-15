@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e0d44878-1982-fd9e-5dc4-ef972d908b28
 ---
@@ -73,7 +75,7 @@ Reading response due
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Global Crisis of the 17th Century
+The Global Crisis of the 17{{< sup "th" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 

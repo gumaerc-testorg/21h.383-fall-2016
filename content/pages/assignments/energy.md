@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
 title: Student Book Review
 uid: 2549a1d6-ecf4-840a-719b-3a99bde8c42a

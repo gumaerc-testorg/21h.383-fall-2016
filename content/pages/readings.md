@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bd2d1bb6-adcd-8ec3-048c-6c12f7ee1c6a
 ---
@@ -156,14 +159,14 @@ Wrigley, E. A., and R. S. Schofield. _The Population History of England, 1541–
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Global Crisis of the 17th Century
+The Global Crisis of the 17{{< sup "th" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Goldstone, Jack A. "[East and West in the Seventeenth Century: Political Crises in Stuart England, Ottoman Turkey, and Ming China](http://www.jstor.org/stable/179024)." _Comparative Studies in Society and History_ 30, no. 1 (1988): 103–42.
 
-Hobsbawm, E. J. "[The General Crisis of the European Economy in the 17th Century](http://www.jstor.org/stable/649822)." _Past & Present Society_ 5, no. 1 (1954): 33–53.
+Hobsbawm, E. J. "[The General Crisis of the European Economy in the 17{{< sup "th" >}} Century](http://www.jstor.org/stable/649822)." _Past & Present Society_ 5, no. 1 (1954): 33–53.
 
 ### Book Suggestions
 
