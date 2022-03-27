@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
 resourcetype: Document
 title: '21H.383F16 Technology and the Global Economy - Sample Book Review: Poverty
   of Clio'
