@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
 title: Sample Book Review
 uid: 17ee7206-e2d7-8bab-c663-9ce9a5fe342b
@@ -23,7 +27,7 @@ Part II, "The Institutional Framework: Rules and Practices" (begins p. 191) shif
 
 Part III (begins p. 273) "Market Performance: Quantitative Tests" is where the rubber really hits the road as it were. It is in Dijkman's quantitative tests of both price convergence and market density that Holland really begins to outshine its neighbors across the Channel or south of the great rivers. Holland demonstrates a remarkably well-integrated price system (for wheat) vis-a-vis international markets from a very early stage. This does not mean that prices were not volatile; but they did track developments on the international trade circuit very closely. Dijkman attributes this to the very poor land quality for wheat agriculture in the north, leaving no hope of sustaining the local population. This forced Holland into international grain markets with an unusual precocity. England by contrast had a relatively self-contained grain market so prices varied much more by distance than in Holland (pp. 306–7). But dependence on imports still left Holland vulnerable in times of dearth as "export restrictions in the producing regions could cause acute problems in Holland" (p. 311).
 
-Finally, her most remarkable finding is the incredibly high level of market orientation in Holland from a relatively early date, with already 60–66% of the population involved in the market for their sustenance by the mid-14th century. rising to around 90% by 1500 (p. 325). Market participation in Flanders had been somewhat higher (at approximately 70% of the population in the early 14th century) but it had been entirely eclipsed by 1500 (p. 332). Meanwhile, market density in England never even came close. In the early 14th century its population involved in the marketplace ranged around 50% and that number had only edged up towards 65% by 1500 (p. 338).
+Finally, her most remarkable finding is the incredibly high level of market orientation in Holland from a relatively early date, with already 60–66% of the population involved in the market for their sustenance by the mid-14{{< sup "th" >}} century. rising to around 90% by 1500 (p. 325). Market participation in Flanders had been somewhat higher (at approximately 70% of the population in the early 14{{< sup "th" >}} century) but it had been entirely eclipsed by 1500 (p. 332). Meanwhile, market density in England never even came close. In the early 14{{< sup "th" >}} century its population involved in the marketplace ranged around 50% and that number had only edged up towards 65% by 1500 (p. 338).
 
 How can we account for these incredibly high levels of market penetration already in the years prior to the Black Death? or for that matter, for the perhaps even more amazing feat of increasing market saturation in the period of population collapse following? Dijkman has this to say: "Returning to Holland, we can conclude that the strong growth of market orientation between 1350 and 1500 would not have been possible without the support of an efficient organization of commodity markets (p. 342)." Nonetheless, she goes on to argue that Holland's favourable institutions did not generate high levels of commercialization of their own accord: The process was ultimately triggered by non-institutional forces. But the contribution of the institutional framework was still essential: It facilitated and supported flexible adaptation to changing circumstances.
 

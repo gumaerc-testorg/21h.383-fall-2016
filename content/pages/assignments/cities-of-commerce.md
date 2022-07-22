@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2dcaa6c6-d868-cdc3-14a2-257197a0e332
 title: Sample Book Review
 uid: 5eb82e36-3b40-64cb-bbe6-c55c5a1fd134
