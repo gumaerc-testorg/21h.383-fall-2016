@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course topics and key due dates for the assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
