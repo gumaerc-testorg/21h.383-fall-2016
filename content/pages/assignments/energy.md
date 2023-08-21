@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a student book review of the book Energy and the
+  English Industrial Revolution by E.A. Wrigley.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

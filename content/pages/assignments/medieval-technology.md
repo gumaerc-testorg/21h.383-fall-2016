@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a student book review of the book  Medieval Technology
+  and Social Change by Lynn White.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

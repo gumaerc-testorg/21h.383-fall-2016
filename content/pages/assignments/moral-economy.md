@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a review of the book The Moral Economy: Poverty,
+  Credit, and Trust in Early Modern Europe by Laurence Fontaine.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

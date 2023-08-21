@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the course meeting times, a course description,
+  and the grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -78,4 +80,4 @@ Historiographical essay
 
 {{< tableclose >}}
 
-For more information on the class activities, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the class activities, see the {{% resource_link 2dcaa6c6-d868-cdc3-14a2-257197a0e332 "Assignments" %}} section.

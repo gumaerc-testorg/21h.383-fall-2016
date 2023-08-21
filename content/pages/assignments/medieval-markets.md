@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "This section contains a review of the book Shaping Medieval Markets:\
+  \ the Organization of Commodity Markets in Holland, C. 1200 \u2013 C. 1450 by Jessica\
+  \ Dijkman."
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
