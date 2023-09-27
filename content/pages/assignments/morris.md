@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section contains a student book review of the book Why the West
+  Rules-for Now: The Patterns of History, and What They Reveal About the Future by
+  Ian Morris.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

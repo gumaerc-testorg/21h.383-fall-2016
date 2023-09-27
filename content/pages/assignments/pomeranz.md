@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a student book review of the book The Great Divergence:
+  China, Europe, and the Making of the Modern World Economy by Kenneth Pomeranz.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
