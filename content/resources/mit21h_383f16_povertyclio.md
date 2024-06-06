@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding the poverty of clio: resurrecting
   economic history by francesco boldizzoni.'
 file: /courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/6e6b3493352dc1d88706eb6f8eb111ef_MIT21H_383F16_PovertyClio.pdf
+file_size: 169632
 file_type: application/pdf
 learning_resource_types:
 - Assignments
