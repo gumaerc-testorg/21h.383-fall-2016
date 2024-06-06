@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding cultures, coal, colonies,
   computation: the causes and perpetuators of the great divergence.'
 file: /courses/21h-383-technology-and-the-global-economy-1000-2000-fall-2016/bfb172273c27068ca3bd86d43e51107a_MIT21H_383F16_GreatDvrgnce.pdf
+file_size: 457918
 file_type: application/pdf
 learning_resource_types:
 - Assignments
