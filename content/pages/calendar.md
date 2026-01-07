@@ -140,7 +140,7 @@ Reading response due
 
 Slavery, the 'Resource Curse' and Inequality in the Contemporary World?
 
-_Guest speaker: {{% resource_link "3c98acc7-e385-4b02-9646-48a39d2a84af" "Professor Johan Furie" %}}, Department of Economics, Stellenbosch University, South Africa_
+_Guest speaker: [Professor Johan Furie](http://www.ekon.sun.ac.za/jfourie), Department of Economics, Stellenbosch University, South Africa_
 
 
 {{< tdclose >}}
